@@ -1,4 +1,4 @@
-# Hi, I'm Devora Gluskinus 👋
+# Hi, I'm Dvora Gluskinus 👋
 
 **Full Stack Developer** building systems end to end with **.NET / Angular** and **Java / Spring Boot / React**, and building with LLMs: agents, RAG, and MCP.
 
